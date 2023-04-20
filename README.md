@@ -88,6 +88,56 @@ Ainda não definido
 
 <br>
 
+### 2.3 Matriz de Comunicação
+
+O telegram e o google meets serão as principais plataformas de comunicação utilizadas pela equipe.
+
+| Descrição                                                               | Envolvidos         | Periodicidade | Produtos Gerados                                                           |
+| :---------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------------------------------------------- |
+| -Acompanhamento das Atividades em Andamento;                            | -Equipe do projeto | -2 dias      | -Ata da Reunião e Relatório de Situação do Projeto                                                                    |
+| -Alinhamento de expectativas e requisitos para próxima sprint | -Equipe do Projeto | - 14 dias    | - Lista de requisitos candidatos a estar no backlog da proxima sprint |
+| -Sprints                                                 | -Equipe do projeto        | - 14 dias     | -Incremento de valor                            |  Comunicação de Situação do Projeto | - Equipe e Professor | Pontos de controle | - Ata de reunião e - Relatório de Situação do Projeto | 
+
+<br>
+
+### 2.4 Gerenciamento de Riscos
+
+Risco leve: Dificuldade de Comunicação<br>
+Risco Moderado: falta de Familiaridade com a Tecnologia, Gerenciamento de Horário<br>
+Risco Grave: diminuição da Equipe<br>
+
+
+<br>
+
+### 2.5 Critérios de Replanejamento
+
+Redução no Número de Membros da Equipe
+Escopo maior que o esperado, baseado no nosso conhecimento da tecnologia
+
+
+## PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
+
+<br>
+
+### 3.1 Elaboração de Requisitos
+
+| Atividade                              | Método                                                                                                                                                | Ferramenta                                     | Entrega                                                  |
+| :------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| Elicitação de requisitos               | Necessidade do Cliente e Brainstorming                                                                                                                                         | Trello e Miro                                         | Backlog do produto                                       |
+| Análise dos requisitos                 | Diferenciação dos RF e RNF                                                                                                                            | Google meet                                   | Lista de requisitos                                        |
+| Documentação de requisitos             | Organizar os requisitos em cronologia estratégica                                                                  | Miro                                           | Backlog do produto |
+
+<br>
+
+### 3.2 Sprint Review e Sprint Retro
+
+| Atividade                         | Método         | Ferramenta | Entrega                      |
+| :-------------------------------- | -------------- | ---------- | ---------------------------- |
+| Validação com o Cliente    | Apresentação | Google Meet      | Validação baseada nos requisitos |
+| Verificação       | Reunião | Google Meet    | Verificar o resultado do planejamento     |
+
+<br>
+
 ## LIÇÕES APRENDIDAS
 
 ### Unidade 1
