@@ -6,4 +6,9 @@ Essa página está na branch `gh-pages`
 
 ## Equipe de Desenvolvimento:
 
-Pedro Miguel dos Santos - @pedromadbr
+`Dev Master` - Marcos Paulo Amorim - @mpauloribeiroa
+`Dev CI Tester` - Liander Medeiros - @liander-medeiros
+`Dev Back` - Felipe Guimaraes - @felipegf1
+`Dev Back` - Igor Alves - @igorabreueng
+`Dev Front` - Pedro Miguel dos Santos - @pedromadbr
+
