@@ -1,6 +1,7 @@
-<head>PancreAmigos</head>
+## _**PancreAmigos**_
 
-## Objetivo Principal:
+
+# Objetivo Principal:
 
 ### Auxiliar nas decisões tomadas por pessoas portadoras da diabetes tipo 1 em relação ao seu tratamento. Com isso, busca-se auxiliar na qualidade e expectativa de vida dessas pessoas, auxiliando-as a tomar as decisões corretas.
 
@@ -13,10 +14,6 @@ Dev CI Tester - Liander Medeiros - @liander-medeiros<br>
 Dev Back - Felipe Guimaraes - @felipegf1<br>
 Dev Back - Igor Alves - @igorabreueng<br>
 Dev Front - Pedro Miguel dos Santos - @pedromadbr<br>
-
-## _**PancreAmigos**_
-
-<h1 align="center"><b>VISÃO DE PRODUTO E PROJETO</b></h1>
 
 <br>
 
@@ -91,6 +88,16 @@ Ainda não definido
 
 <br>
 
+## LIÇÕES APRENDIDAS
+
+### Unidade 1
+
+O principal aprendizado foi o conhecimento das ferramentas de gerenciamento de projeto, usando as metodologias como o Scrum e o XP.<br>
+
+Aos poucos também começamos a entender o nível de conhecimento de cada membro do time dessa forma foi possível delimitar práticas a serem adotadas em nosso projeto.<br>
+
+<br>
+
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 
 - [Materiais Disponibilizados no Moodle](https://aprender3.unb.br/login/index.php)
@@ -100,15 +107,7 @@ Ainda não definido
 
 - [Documentação do Postgres](https://www.postgresql.org/)
 
-
-
-## LIÇÕES APRENDIDAS
-
-### Unidade 1
-
-O principal aprendizado foi o conhecimento das ferramentas de gerenciamento de projeto, usando as metodologias como o Scrum e o XP.<br>
-
-Aos poucos também começamos a entender o nível de conhecimento de cada membro do time dessa forma foi possível delimitar práticas a serem adotadas em nosso projeto.<br>
+<br>
 
 # Apresentação  da Unidade 1
 
