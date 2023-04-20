@@ -25,6 +25,8 @@ Dev Front - Pedro Miguel dos Santos - @pedromadbr<br>
   - [1.1 Declaração de Posição do Produto](#11-declaração-de-posição-do-produto)
   - [1.2. Objetivos do Produto](#12-objetivos-do-produto)
   - [1.3. Tecnologias a Serem Utilizadas](#13-tecnologias-a-serem-utilizadas)
+- [VISÃO GERAL DO PROJETO](#visão-geral-do-projeto)
+    - [2.1 Organização do Projeto](#21-organização-do-projeto)
 - [REFERÊNCIAS BIBLIOGRÁFICAS](#referências-bibliográficas)
 
 <br>
@@ -78,7 +80,7 @@ Já para o banco de dados, a tecnologia de fácil aprendizado para a equipe e co
 | Desenvolvedor Front-end      | Desenvolver o produto na parte visual, manipulando os dados, para mostrar ao cliente de forma legível, e enviar ao backend de forma bem estruturada. | Pedro Miguel dos Santos              | Pedro Miguel dos Santos e Marcos Paulo Amorim              |
 | CI Tester | Desenvolver banco de dados, tabelas, relações entre as mesmas, e demais necessidades de banco.                                                       | Liander Medeiros         | Liander Medeiros                        |
 | Desenvolvedor Back-end       | Desenvolver conversação com o banco de dados, manusear os dados, para serem inseridos no banco, e apresentados no front-end.                         | Igor Alves             | Igor Alves e Felipe Guimaraes |
-| Cliente                      | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Julia Guimarães |     
+| Cliente                      | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Julia Guimarães e Professor |     
 
 <br>
 
@@ -90,13 +92,12 @@ Ainda não definido
 
 ### 2.3 Matriz de Comunicação
 
-O telegram e o google meets serão as principais plataformas de comunicação utilizadas pela equipe.
-
 | Descrição                                                               | Envolvidos         | Periodicidade | Produtos Gerados                                                           |
 | :---------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------------------------------------------- |
 | -Acompanhamento das Atividades em Andamento;                            | -Equipe do projeto | -2 dias      | -Ata da Reunião e Relatório de Situação do Projeto                                                                    |
 | -Alinhamento de expectativas e requisitos para próxima sprint | -Equipe do Projeto | - 14 dias    | - Lista de requisitos candidatos a estar no backlog da proxima sprint |
-| -Sprints                                                 | -Equipe do projeto        | - 14 dias     | -Incremento de valor                            |  Comunicação de Situação do Projeto | - Equipe e Professor | Pontos de controle | - Ata de reunião e - Relatório de Situação do Projeto | 
+| -Sprints                                                 | -Equipe do projeto        | - 14 dias     | -Incremento de valor                            | 
+Comunicação de Situação do Projeto | - Equipe e Professor | Pontos de controle | - Ata de reunião e - Relatório de Situação do Projeto | 
 
 <br>
 
