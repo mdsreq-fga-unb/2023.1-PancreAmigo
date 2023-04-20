@@ -4,9 +4,3 @@ docs_dir: pages
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-
-nav: 
-  - Página inicial: README.md
-  - Visão do produto e projeto: visaoProdProj.md
-  - Lições aprendidas: Licoes.md
-  - Video de Entrega da Unidade 1: VideoEntregas.md
