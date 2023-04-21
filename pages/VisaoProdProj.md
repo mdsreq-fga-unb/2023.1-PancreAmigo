@@ -14,7 +14,9 @@
   - [1.3. Tecnologias a Serem Utilizadas](#13-tecnologias-a-serem-utilizadas)
 - [VISÃO GERAL DO PROJETO](#visão-geral-do-projeto)
   - [2.1 Organização do Projeto](#21-organização-do-projeto)
+
   - [2.2 Planejamento das fases e/ou iterações do projeto](#22-planejamento-das-fases-eou-iterações-do-projeto)
+  
   - [2.3 Matriz de comunicação](#23-matriz-de-comunicação)
   - [2.4 Gerenciamento de riscos](#24-gerenciamento-de-riscos)
   - [2.5 Critérios de replanejamento](#25-critérios-de-replanejamento)
