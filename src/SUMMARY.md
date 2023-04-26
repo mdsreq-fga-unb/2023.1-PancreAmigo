@@ -1,7 +1,6 @@
 # Summary
 
 [Início](home.md)
-------
 
 
 # Produto e Projeto
@@ -42,4 +41,7 @@
 - [Histórico de Revisões](info/rev.md)
 - [Referências Bibliográficas](info/refs.md)
 - [Sobre Nós](info/sobre.md)
+-----------
+- [Utilidades](info/utils.md)
+    - [Resumo de Git](info/utils/git.md)
 
