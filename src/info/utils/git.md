@@ -1,1 +1,0 @@
-# Resumo de Git

@@ -1,1 +1,0 @@
-# Criterios de Replanejamento

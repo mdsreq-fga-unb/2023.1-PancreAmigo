@@ -1,1 +1,0 @@
-# Declaração de Posição
