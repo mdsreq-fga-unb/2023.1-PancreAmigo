@@ -2,9 +2,9 @@ name: Pages Auto-Deploy
 
 on:
   push:
-    branches: [ "gh-pages" ]
+    branches: [ "docs" ]
   pull_request:
-    branches: [ "gh-pages" ]
+    branches: [ "docs" ]
     
   workflow_dispatch:
 
@@ -27,6 +27,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_branch: docs
-          publish_dir: ./docs/
+          publish_branch: gh-pages
+          publish_dir: ./book/
 
