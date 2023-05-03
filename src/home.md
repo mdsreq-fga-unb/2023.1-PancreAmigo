@@ -1,3 +1,3 @@
 # Início
 
-Essa é a landing page.
+Página principal do projeto.
