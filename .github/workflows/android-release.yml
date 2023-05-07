@@ -59,7 +59,7 @@ jobs:
           path: version1.txt
 
       - name: Update version in YAML
-        run: sed -i 's/99.99.99+99/${{ steps.version.outputs.content }}+${{ github.run_number }}/g' pubspec.yaml
+        run: sed -i 's/99.99.99+99/${{ steps.version.outputs.content }}+${{ github.run_number }}/g' pancreamigo/pubspec.yaml
 
       - name: Download Android keystore
         id: android_keystore
@@ -70,10 +70,10 @@ jobs:
 
       - name: Create key.properties
         run: |
-          echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > android/key.properties
-          echo "storePassword=${{ secrets.PLAY_STORE_KEYSTORE_PASSWORD }}" >> android/key.properties
-          echo "keyPassword=${{ secrets.PLAY_STORE_KEY_PASSWORD }}" >> android/key.properties
-          echo "keyAlias=${{ secrets.PLAY_STORE_KEY_ALIAS }}" >> android/key.properties
+          echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > pancreamigo/android/key.properties
+          echo "storePassword=${{ secrets.PLAY_STORE_KEYSTORE_PASSWORD }}" >> pancreamigo/android/key.properties
+          echo "keyPassword=${{ secrets.PLAY_STORE_KEY_PASSWORD }}" >> pancreamigo/android/key.properties
+          echo "keyAlias=${{ secrets.PLAY_STORE_KEY_ALIAS }}" >> pancreamigo/android/key.properties
       
       - uses: actions/setup-java@v3
         with:
@@ -86,7 +86,10 @@ jobs:
           flutter-version: "3.0.0"
           channel: 'stable'
           cache: true
-     
+          
+      - name: Enter app directory
+        run: cd pancreamigo
+        
       - name: Get dependencies
         run: flutter pub get
 
