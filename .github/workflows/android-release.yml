@@ -105,11 +105,11 @@ jobs:
 
 
   deploy:
-      name: Deploy Android Build
-      needs: build
-      runs-on: ubuntu-latest
+    name: Deploy Android Build
+    needs: build
+    runs-on: ubuntu-latest
 
-      steps:
+    steps:
       - uses: actions/checkout@v1
 
       - name: Get Android Build from artifacts
@@ -124,4 +124,4 @@ jobs:
           packageName: com.pancreamigo
           releaseFiles: app-release.aab
           track: internal
-          status: draft
+          status: completed
