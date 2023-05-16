@@ -44,4 +44,5 @@
 -----------
 - [Utilidades](info/utils.md)
     - [Resumo de Git](info/utils/git.md)
+    - [Privacy Policy](info/utils/privacy.md)
 
