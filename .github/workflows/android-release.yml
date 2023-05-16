@@ -3,9 +3,7 @@ name: Android Release
 on:
   push:
     branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
-
+    
   workflow_dispatch:
 
 jobs:
@@ -123,5 +121,5 @@ jobs:
           serviceAccountJsonPlainText: ${{ secrets.PLAYSTORE_ACCOUNT_KEY }}
           packageName: com.pancreamigo
           releaseFiles: app-release.aab
-          track: internal
+          track: alpha
           status: completed
