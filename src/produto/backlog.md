@@ -29,7 +29,7 @@ A pontuação do valor de negócio, viabilidade e complexidade foram definidos e
 
 
 | Tema | Épico | US | História de Usuário | VN | Ve | C | Total |
-| ---- | ----- | -- | ------------------- | -- | -- | - | ----- |
+| :----: | :-----: | :--: | ------------------- | :--: | :--: | :-: | :-----: |
 | T1 | E1 | US1 | Eu, como usuário, cadastro meus dados para que as minhas informações sejam salvas corretamente | 1 | 3 | 1 | 5 |
 | | | US2 | Eu, como usuário, vejo um perfil com todos meus dados cadastrais | 2 | 3 | 1 | 6 |
 | | | US3 | Eu, como usuário, edito os meus dados de cadastro a fim de atualizar informações caso necessário | 2 | 3 | 2 | 7 |
@@ -66,31 +66,19 @@ MVP1
 O objetivo desse MVP é fornecer um produto mínimo para que o usuário consiga registrar e manipular suas informações.
 
 
-Requisito
-Descrição
-US1
-Eu, como usuário, cadastro meus dados para que as minhas informações sejam salvas corretamente
-US2
-Eu, como usuário, vejo um perfil com todos meus dados cadastrais
-US3
-Eu, como usuário, edito os meus dados de cadastro a fim de atualizar informações caso necessário
-US4
-Eu, como usuário, registro minha alimentação  para controlar a quantidade de carboidrato, proteína e gordura
-US5
-Eu, como usuário, registro o tempo exato desde a última refeição para verificar o tempo para comer novamente
-US6 
-Eu, como usuário, registro a minha prescrição para que o aplicativo possa fazer os cálculos de forma correta
-US7
-Eu, como usuário, registro quando fizer uma aplicação de insulina para manter um controle das minhas doses 
-US8
-Eu, como usuário, registro as aplicações por quantidade de unidades e por tipo de insulina para manter uma lista detalhada dos recursos utilizados
-US9 
-Eu, como usuário, vejo quando fiz a última aplicação para não ter excesso de insulina em atividade no meu corpo
-US10
-Eu, como usuário, vejo o valor da última medição de glicemia
-US11
-Eu, como usuário, registro os meus valores de glicemia a cada aferição para não perder o acompanhamento da minha rotina
-
+| Requisito | Descrição                                                                                                                                          |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| US1       | Eu, como usuário, cadastro meus dados para que as minhas informações sejam salvas corretamente                                                     |
+| US2       | Eu, como usuário, vejo um perfil com todos meus dados cadastrais                                                                                   |
+| US3       | Eu, como usuário, edito os meus dados de cadastro a fim de atualizar informações caso necessário                                                   |
+| US4       | Eu, como usuário, registro minha alimentação  para controlar a quantidade de carboidrato, proteína e gordura                                       |
+| US5       | Eu, como usuário, registro o tempo exato desde a última refeição para verificar o tempo para comer novamente                                       |
+| US6       | Eu, como usuário, registro a minha prescrição para que o aplicativo possa fazer os cálculos de forma correta                                       |
+| US7       | Eu, como usuário, registro quando fizer uma aplicação de insulina para manter um controle das minhas doses                                         |
+| US8       | Eu, como usuário, registro as aplicações por quantidade de unidades e por tipo de insulina para manter uma lista detalhada dos recursos utilizados |
+| US9       | Eu, como usuário, vejo quando fiz a última aplicação para não ter excesso de insulina em atividade no meu corpo                                    |
+| US10      | Eu, como usuário, vejo o valor da última medição de glicemia                                                                                       |
+| US11      | Eu, como usuário, registro os meus valores de glicemia a cada aferição para não perder o acompanhamento da minha rotina                            |
 
 
 MVP2
@@ -98,25 +86,14 @@ MVP2
 O objetivo do MVP é conseguir ter acesso aos registros das informações inseridas, para habilitar o uso com o intuito de monitoramento a longo prazo. Além disso, esse MVP também traz a adição da manipulação de dados de forma direta, sem que o usuário precise inserir tudo manualmente.
 
 
-Requisito
-Descrição
-US 12
-Eu, como usuário, calculo a quantidade de insulina a ser aplicada em caso de hiperglicemia (quando o valor da glicemia está acima do ideal) para que não ocorra erros na minha medicação
-US 13
-Eu, como usuário, recebo a quantidade de insulina a ser aplicada para corrigir uma refeição mal feita 
-US 14
-Eu, como usuário, vejo uma estimativa do valor da minha hemoglobina glicada
-US 15
-Eu, como usuário, recebo a cada espaço de tempo(hora,dia) a aplicação de insulina basal (que precisa ser aplicada todo dia) 
-US 16
-Eu, como usuário, edito a configuração das notificações para receber cada uma de acordo com o tempo desejado
-US 17
-Eu, como usuário, recebo uma notificação a cada espaço de tempo(hora,dia) sobre alimentação para que registre o que ingeri
-US 18
-Eu, como usuário, listo todos os meus registros para visualizar minha rotina alimentícia e medicinal
-US 19
-Eu, como usuário, vejo as informações do meu registro em detalhes a fim de consultar aquilo que preenchi anteriormente
-US 20
-Eu, como usuário, vejo um gráfico dos meus registros a fim de acompanhar minha evolução no tratamento diabético
-
-
+| Requisito | Descrição                                                                                                                                                                                |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US 12     | Eu, como usuário, calculo a quantidade de insulina a ser aplicada em caso de hiperglicemia (quando o valor da glicemia está acima do ideal) para que não ocorra erros na minha medicação |
+| US 13     | Eu, como usuário, recebo a quantidade de insulina a ser aplicada para corrigir uma refeição mal feita                                                                                    |
+| US 14     | Eu, como usuário, vejo uma estimativa do valor da minha hemoglobina glicada                                                                                                              |
+| US 15     | Eu, como usuário, recebo a cada espaço de tempo(hora,dia) a aplicação de insulina basal (que precisa ser aplicada todo dia)                                                              |
+| US 16     | Eu, como usuário, edito a configuração das notificações para receber cada uma de acordo com o tempo desejado                                                                             |
+| US 17     | Eu, como usuário, recebo uma notificação a cada espaço de tempo(hora,dia) sobre alimentação para que registre o que ingeri                                                               |
+| US 18     | Eu, como usuário, listo todos os meus registros para visualizar minha rotina alimentícia e medicinal                                                                                     |
+| US 19     | Eu, como usuário, vejo as informações do meu registro em detalhes a fim de consultar aquilo que preenchi anteriormente                                                                   |
+| US 20     | Eu, como usuário, vejo um gráfico dos meus registros a fim de acompanhar minha evolução no tratamento diabético                                                                          |
