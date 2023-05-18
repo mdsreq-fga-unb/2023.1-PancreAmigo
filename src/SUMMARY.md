@@ -11,6 +11,8 @@
     - [Objetivos](produto/objetivos.md)
     - [Tecnologias Utilizadas](produto/tecnologias.md)
     - [Backlog do Produto](produto/backlog.md)
+    - [Definições de Pronto e Preparado](produto/dor_dod.md)
+    - [Arquitetura e Padrões de Interface](produto/arq_interface.md)
 -----------
     
 - [Visão Geral do Projeto](projeto/visao.md)
