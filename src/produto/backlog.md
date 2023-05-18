@@ -59,7 +59,8 @@ RNF002 - Suportabilidade: O produto estará disponível para smartphone android 
 RNF003 - Confiabilidade: O produto deverá guardar os dados cadastrados do usuário respeitando a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD)
 RNF004 - Usabilidade: O produto deverá ter uma interface limpa, orientando de forma didática a usabilidade do produto. Além disso, por pedido da cliente, a interface deve ser azul e laranja.
 
-Mínimo Produto Viável
+
+# Mínimo Produto Viável
 
 MVP1
 
@@ -97,3 +98,23 @@ O objetivo do MVP é conseguir ter acesso aos registros das informações inseri
 | US 18     | Eu, como usuário, listo todos os meus registros para visualizar minha rotina alimentícia e medicinal                                                                                     |
 | US 19     | Eu, como usuário, vejo as informações do meu registro em detalhes a fim de consultar aquilo que preenchi anteriormente                                                                   |
 | US 20     | Eu, como usuário, vejo um gráfico dos meus registros a fim de acompanhar minha evolução no tratamento diabético                                                                          |
+
+# Critérios de Aceitação
+
+| Histórias de Usuário                                 | Critérios                                                                                                                                                                                                                                                               |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US 2 - Visualizar dados cadastrais                   | Visualizar os meus dados em uma página de perfil única Campo de nome, idade , altura, peso, sexo, data de nascimento e email                                                                                                                                            |
+| US 3 - Editar dados                                  | O usuário deverá poder editar os campos de idade, altura, peso, email e senha da conta                                                                                                                                                                                  |
+| US 4 - Registrar alimentação                         | O usuário deverá registrar as quantidades de alimento de cada refeição registro dos alimentos em qtde de carboidratos, proteínas e gorduras abrir uma janela para o registro ter campos de nome para o alimento, porção, data e horário                                 |
+| US 5 - Visualizar intervalo entre refeições          | mostrar quanto tempo faz desde o registro da última refeição ter a informação em uma página separada                                                                                                                                                                    |
+| US 6 - Registrar prescrição médica                   | registrar os tipos de insulina abrir janela com as opções disponíveis de insulina para salvar                                                                                                                                                                           |
+| US 8 - Registrar aplicação de insulina               | O usuário deverá registrar as aplicações por quantidade de unidades e por tipo de insulina                                                                                                                                                                              |
+| US 9 - Visualizar intervalo entre aplicações         | O usuário deverá visualizar o tempo que passou desde sua última aplicação de insulina para não ter excesso de insulina em atividade no seu corpo                                                                                                                        |
+| US 10 - Visualizar medição de glicemia               | O usuário deverá visualizar o valor da sua glicemia na última medição                                                                                                                                                                                                   |
+| US 11 - Registrar glicemia a cada medição            | O aplicativo deverá registrar o valor da sua glicemia em cada medição para não perder o acompanhamento da rotina do tratamento                                                                                                                                          |
+| US 12 - Calcular insulina em caso de hiperglicemia   | O aplicativo deverá ser capaz de realizar um cálculo da quantidade de insulina para caso de hiperglicemia(quando o valor da glicemia está acima do ideal)                                                                                                               |
+| US 13 - Receber quantidade de insulina para correção | O aplicativo deverá calcular e informar o usuário a quantidade de insulina ele deve aplicar após uma refeição                                                                                                                                                           |
+| US 15 - Receber quantidade de insulina basal         | O aplicativo deverá notificar o usuário da quantidade de insulina basal a ser aplicada. A insulina basal deve ser aplicada todos os dias no mesmo horário para que ela possa agir no corpo no período de tempo certo por ser uma insulina com diferente período de ação |
+| US 16 - Editar configurações de notificações         | O usuário deverá ser capaz de editar o tempo de recebimento entre cada notificação de acordo com o tempo desejado(tempo baseado no horário em que o usuário faz suas aplicações)                                                                                        |
+| US 17 - Receber lembretes para fazer registros       | O aplicativo deverá enviar lembretes para o usuário não esquecer de registrar a refeição feita                                                                                                                                                                          |
+
