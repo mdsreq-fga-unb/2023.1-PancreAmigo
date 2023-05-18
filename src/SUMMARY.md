@@ -31,10 +31,16 @@
 
 - [Lições Aprendidas](licoes/licoes.md)
     - [Unidade 1](licoes/unidade_1.md)
-    - [Unidade 2]()
+    - [Unidade 2](licoes/unidade_2.md)
     - [Unidade 3]()
     - [Unidade 4]()
 -----------
+
+- [Apresentações](apresentacoes/apresentacoes.md)
+    - [Unidade 1]()
+    - [Unidade 2](apresentacoes/unidade_2.md)
+    - [Unidade 3]()
+    - [Unidade 4]()
 
 
 # Informações Gerais

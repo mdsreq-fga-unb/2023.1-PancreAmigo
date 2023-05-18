@@ -55,8 +55,11 @@ A pontuação do valor de negócio, viabilidade e complexidade foram definidos e
 # Requisitos não-funcionais
 
 RNF001 - Implementação: O back-end e o front-end do produto deverá ser feito utilizando a tecnologia Flutter  
+
 RNF002 - Suportabilidade: O produto estará disponível para smartphone android a partir da versão  5.0  
+
 RNF003 - Confiabilidade: O produto deverá guardar os dados cadastrados do usuário respeitando a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD)  
+
 RNF004 - Usabilidade: O produto deverá ter uma interface limpa, orientando de forma didática a usabilidade do produto. Além disso, por pedido da cliente, a interface deve ser azul e laranja.  
 
 
